@@ -5,7 +5,7 @@ const debugbtn = document.getElementById("debug")
 const codearea = document.getElementById("codearea")
 const outputarea = document.getElementById("output")
 const codeLang = document.getElementById("code")
-const url = "http://localhost:8090"
+const url = "https://ai-code-editor.onrender.com"
 const languagearea = document.getElementById("language")
 
 require.config({
